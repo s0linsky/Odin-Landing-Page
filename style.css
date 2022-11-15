@@ -90,6 +90,45 @@ button {
   margin-top: 15px;
 }
 
+/* INFORMATION */
+
+.information {
+  color: white;
+  background-color: #192168;
+}
+
+.information h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.info-pics img {
+  width: 250px;
+  height: 200px;
+  text-align: center;
+}
+
+.info-pics p {
+  font-size: 20px;
+}
+
+.info-pics {
+  text-align: center;
+}
+
+.box1 {
+  margin-right: 20px;
+}
+
+.box2 {
+  margin-right: 20px;
+}
+
+.box3 {
+  margin-right: 20px;
+}
+
+
 /* ELEMENTS */
 
 .container {
@@ -103,28 +142,32 @@ button {
   background-color: #192168;
   width: 100px;
   height: 35px;
-  border: none;
+  border: 1px solid white;
   border-radius: 8px;
   margin-top: 15px;
   font-size: 16px;
-
 }
 
 .logo {
   margin-right: 44em;
+  padding-top: 60px;
 }
 
 .logo h3 {
   font-size: 30px;
+  padding-bottom: 50px;
 }
 
 .nav-bar {
   justify-content: space-around;
-  padding: 70px;
   background-color: #192168;
   border-bottom: 1px solid white;
+  max-height: 100px;
 }
+
+
 
 .header-links {
   gap: 40px;
+  padding-top: 10px;
 }
