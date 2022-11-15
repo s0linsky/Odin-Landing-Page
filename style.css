@@ -100,16 +100,14 @@ button {
 .information h2 {
   text-align: center;
   font-size: 50px;
+  letter-spacing: 20px;
 }
 
 .info-pics img {
   width: 250px;
   height: 200px;
   text-align: center;
-}
-
-.info-pics p {
-  font-size: 20px;
+  border: 2px solid white;
 }
 
 .info-pics {
@@ -126,6 +124,15 @@ button {
 
 .box3 {
   margin-right: 20px;
+}
+
+.maintext {
+  font-size: 25px;
+  color: #af1e2d;
+}
+
+.subtext {
+  font-size: 14px;
 }
 
 
@@ -164,8 +171,6 @@ button {
   border-bottom: 1px solid white;
   max-height: 100px;
 }
-
-
 
 .header-links {
   gap: 40px;
