@@ -152,7 +152,36 @@ button {
 
 #author {
   margin-top: 25px;
+}
 
+/* CTA */
+
+.cta-text {
+  text-align: start;
+  padding: 20px;
+  margin-left: 120px;
+}
+
+.cta-text h4 {
+  font-size: 38px;
+}
+
+.cta-text p {
+  font-size: 18px;
+}
+
+.cta-box {
+  text-align: center;
+  font-size: 25px;
+  margin: 100px;
+  padding-top: 55px;
+  width: 1200px;
+  height: 150px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #af1e2d;
+}
 
 /* ELEMENTS */
 
@@ -162,15 +191,30 @@ button {
   text-align: center;
 }
 
-.signup {
+
+.clickme {
   color: white;
   background-color: #192168;
-  width: 100px;
-  height: 35px;
+  width: 140px;
+  height: 45px;
   border: 1px solid white;
   border-radius: 8px;
   margin-top: 15px;
   font-size: 16px;
+}
+
+.signup {
+  color: white;
+  background-color: #af1e2d;
+  width: 150px;
+  height: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-size: 16px;
+
 }
 
 .logo {
