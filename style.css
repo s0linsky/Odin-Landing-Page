@@ -135,6 +135,24 @@ button {
   font-size: 14px;
 }
 
+/* QUOTEBOX */
+
+.quote-box {
+  height: 290px;
+  text-align: center;
+  background-color: #E5E7EB;
+}
+
+#quote {
+  font-size: 30px;
+  width: 850px;
+  margin-left: 550px;
+  padding-top: 100px;
+}
+
+#author {
+  margin-top: 25px;
+
 
 /* ELEMENTS */
 
