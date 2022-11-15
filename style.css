@@ -20,7 +20,6 @@ img {
 
 button {
   margin-right: 700px;
-  margin-top: 10px;
 }
 
 /* FLEX CLASSES */
@@ -103,10 +102,12 @@ button {
   color: white;
   background-color: #192168;
   width: 100px;
-  height: 30px;
+  height: 35px;
   border: none;
   border-radius: 8px;
   margin-top: 15px;
+  font-size: 16px;
+
 }
 
 .logo {
